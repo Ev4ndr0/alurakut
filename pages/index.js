@@ -53,10 +53,8 @@ export default function Home(props) {
   // const alteradorDeComunidades/setComunidades = comunidades[1];
   // const comunidades = ['Alurakut'];
   const pessoasFavoritas = [
-    'juunegreiros',
     'omariosouto',
     'peas',
-    'rafaballerini',
     'marcobrunodev',
     'felipefialho',
   ]
